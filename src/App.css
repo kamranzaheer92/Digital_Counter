@@ -1,38 +1,34 @@
-.App {
+.Btn1 {
+  background-color: cadetblue;
+  border: rgb(201, 193, 193);
+  padding: 15px 32px;
+  text-align: center;
+  font-size: medium;
+  margin-right: 20px;
+}
+.Btn2 {
+  background-color: aqua;
+  border: rgb(201, 193, 193);
+  padding: 15px 32px;
+  text-align: center;
+  font-size: medium;
+  margin-right: 20px;
+}
+.Btn3 {
+  background-color: tan;
+  border: rgb(201, 193, 193);
+  padding: 15px 32px;
+  text-align: center;
+  font-size: medium;
+  margin-right: 20px;
+}
+.fajr {
+  background-color: greenyellow;
+  height: 500px;
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.isha {
+  background-color: grey;
+  height: 500px;
+  text-align: center;
 }
