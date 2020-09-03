@@ -4,7 +4,7 @@ import Prayertime from "./Prayer";
 import "./App.css";
 
 function App() {
-  let [count, setcount] = useState(1);
+  let [count, setcount] = useState(0);
   let [isTime, setprayer] = useState(true);
   return (
     <div className={`${isTime ? "fajr" : "isha"}`}>
