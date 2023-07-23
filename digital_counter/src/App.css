@@ -22,6 +22,15 @@
   font-size: medium;
   margin-right: 20px;
 }
+
+.Btn4 {
+  background-color: rgb(145, 140, 210);
+  border: rgb(201, 193, 193);
+  padding: 15px 32px;
+  text-align: center;
+  font-size: medium;
+  margin-right: 20px;
+}
 .fajr {
   background-color: greenyellow;
   height: 500px;

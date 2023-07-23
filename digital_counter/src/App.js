@@ -13,12 +13,19 @@ function App() {
       <button className="Btn1" onClick={() => setcount(++count)}>
         +
       </button>
+      <button className="Btn4" onClick={() => setcount(--count)}>
+        -
+      </button>
       <button className="Btn2" onClick={() => setcount(0)}>
         Reset
       </button>
       <button className="Btn3" onClick={() => setprayer(!isTime)}>
         Display Prayer
       </button>
+
+     
+
+      
     </div>
   );
 }
